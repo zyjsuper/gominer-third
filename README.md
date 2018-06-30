@@ -16,7 +16,7 @@ All available opencl capable GPU's are detected and used in parallel.
 * gcc
 
 ```
-go get github.com/robvanmieghem/gominer
+go get github.com/zyjsuper/gominer-third
 ```
 
 ## Run
