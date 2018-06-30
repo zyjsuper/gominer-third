@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/robvanmieghem/gominer/clients"
+	"github.com/zyjsuper/gominer-third/clients"
 )
 
 // NewClient creates a new SiadClient given a '[stratum+tcp://]host:port' connectionstring
