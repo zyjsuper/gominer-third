@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"reflect"
 	"sync"
-	"time"
+	//"time"
 
 	"github.com/dchest/blake2b"
 	"github.com/zyjsuper/gominer-third/clients"
