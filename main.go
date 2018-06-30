@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/zyjsuper/go-opencl/cl"
-	"github.com/zyjsuper/gominer/algorithms/sia"
-	"github.com/zyjsuper/gominer/mining"
+	"github.com/zyjsuper/gominer-third/algorithms/sia"
+	"github.com/zyjsuper/gominer-third/mining"
 )
 
 //Version is the released version string of gominer
